@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![empd 4](https://github.com/user-attachments/assets/a05207e3-5800-4dbc-bd3b-1553aac7036b)
+![empd4 1](https://github.com/user-attachments/assets/d8b455c8-24c0-4a62-a665-ca7a707b88f1)
 
-### Name:
-### Register Number:
+### Name: SREE GOVIND SA
+### Register Number:212224240159
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
